@@ -17,7 +17,7 @@ this will help you to remove a indexed channel from your group.
 
 Get connected channels list with - /connections"""
 
-    ABOUT = """Developed By @MKD_Korean_Drama
+    ABOUT = """Developed By @Its_Me_Reyan
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/CyniteOfficial'>Harman</a>
